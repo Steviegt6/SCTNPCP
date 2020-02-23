@@ -1,0 +1,3 @@
+displayName = Stevie's Caught Town NPCs+
+author = Steviegt6
+version = 0.1
