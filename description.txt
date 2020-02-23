@@ -1,1 +1,19 @@
-Stevie's Caught Town NPCs+ is a pretty cool mod, it does...this. Modify this file with a description of your mod.
+Stevie's Caught Town NPCs+ (SCTNPCP)
+
+Adds in more "caught" town NPCs from Fargo's!
+
+===========================================
+[c/1C1C1C:Discord]
+https://github.com/Steviegt6/
+===========================================
+[c/1C1C1C:Website]
+https://steviegt6.github.io/
+===========================================
+[c/1C1C1C:Credits]
+Steviegt6: Coder and developer.
+Fargo: Original Caught NPC code.
+Mod Dev Teams: Respective Town NPC sprites.
+===========================================
+
+[c/151515:v0.1.0.0]
+- Initial mod release.
